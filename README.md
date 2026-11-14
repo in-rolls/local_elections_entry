@@ -123,8 +123,8 @@ defaults to `~/data`. An existing verified cache supports offline rebuilds.
 
 - UP v1.2: `9f051cd607b9a42aa3afc498e57737200ef22024`,
   `data/raw/2021/gram_panchayat_pradhan_candidates.csv.gz`.
-- Rajasthan v1.1: `b543c4759519dd44682fbd278d81bdccaa152e99`,
-  `data/ContestingSarpanch.csv.gz`.
+- Rajasthan: `854c415c9a4bf3beef393c170419b1bf8f41b189`,
+  `data/raw/sec_scrape/ContestingSarpanch.csv.gz`.
 
 Bihar and Uttarakhand still read the local repositories supplied by `--root`.
 

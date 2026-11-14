@@ -1,8 +1,8 @@
 {
   "rajasthan": {
     "provider": "local_elections_rajasthan",
-    "ref": "b543c4759519dd44682fbd278d81bdccaa152e99",
-    "path": "data/ContestingSarpanch.csv.gz",
+    "ref": "854c415c9a4bf3beef393c170419b1bf8f41b189",
+    "path": "data/raw/sec_scrape/ContestingSarpanch.csv.gz",
     "sha256": "d0360d37c63c5f0984fd25e5695af9c7958797ff435da8d1a0aefae9d7dcc889"
   },
   "up": {
